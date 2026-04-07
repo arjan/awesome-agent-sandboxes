@@ -16,6 +16,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [shellbox.dev](https://shellbox.dev/) - SSH-accessible Linux boxes.
 - [Novita Sandbox](https://novita.ai/docs/guides/sandbox-agent-runtime-introduction) - Agent deployment framework with SDK decorators and one-click configuration.
 - [BlueRock Agent Sandbox](https://www.bluerock.io/products/agent-sandbox) - Commercial sandbox with full MCP visibility and action-level tracing.
+- [OmniRun](https://omnirun.io) - Firecracker microVM sandboxes with 250ms boot, desktop GUI control, end-to-end encryption, and TypeScript/Python SDKs.
 
 ## Self-hosted / Open Source
 
