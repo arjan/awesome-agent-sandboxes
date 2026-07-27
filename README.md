@@ -6,6 +6,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 
 - [E2B](https://github.com/e2b-dev/E2B) - Open-source cloud runtime with Linux OS and SDK support.
 - [AgentSphere](https://www.agentsphere.run/) - MicroVM sandboxes with MCP integration for secure LLM code execution.
+- [CreateOS](https://createos.sh) - MicroVMs with pause-to-snapshot, fork-based branching, and private overlay networking for multi-agent systems. [SDK](https://github.com/NodeOps-app/createos-sandbox-sdk).
 - [Runloop](https://www.runloop.ai/) - Fast devboxes with snapshots and repo connections.
 - [Modal Sandboxes](https://modal.com/docs/guide/sandboxes) - Programmatic sandboxes at massive scale with sub-second startup, snapshotting, and fine-grained networking controls.
 - [Deno Sandboxes](https://docs.deno.com/sandboxes/) - Millisecond boot times.
