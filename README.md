@@ -41,6 +41,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [pctx-sandbox](https://github.com/portofcontext/pctx-py-sandbox) - Python decorator for untrusted code.
 - [AgentFence](https://github.com/agentfence/agentfence) - Security testing platform for prompt injection and secret leakage vulnerabilities.
 - [OpenServ](https://github.com/openserv-labs/sdk) - TypeScript framework for autonomous agents.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first agent runtime with per-session Docker containers, Kubernetes pods, and self-hosted workers.
 
 ## Others
 
