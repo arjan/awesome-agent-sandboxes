@@ -25,6 +25,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Sandboxer](https://github.com/ammmir/sandboxer) - Forkable server for LLMs and agents.
 - [Kubernetes Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - Kubernetes APIs with pluggable isolation backends (gVisor/Kata) for secure agent workloads at scale.
 - [Arrakis](https://github.com/abshkbh/arrakis) - MicroVM isolation with snapshots and backtracking.
+- [BunkerVM](https://github.com/ashishgituser/bunkervm) - Firecracker microVMs that record each command, rewind to any step, and compare agent runs.
 - [Bouvet](https://github.com/vrn21/bouvet) - Rust-based sandbox.
 - [Microsandbox](https://github.com/zerocore-ai/microsandbox) - Self-hosted with VM-level isolation and under 200ms boot times.
 - [SandboxAI](https://github.com/substratusai/sandboxai) - Multi-cloud infrastructure for AI-generated code.
