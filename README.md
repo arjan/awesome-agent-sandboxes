@@ -49,6 +49,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 ## Others
 
 - [Agents.one Playground](https://agents.one/playground) - Upload Python agents and share public playground links for zero-install testing.
+- [AgentSandboxes](https://agentsandboxes.fyi) - Index of cloud sandbox providers with source-linked specs, prices and a REST API.
 - [AI Agent Sandbox](https://agentsandbox.net/) - Run agents in-browser with Pyodide.
 - [Browser Use Sandboxes](https://docs.browser-use.com/customize/sandbox/quickstart) - Production browser automation.
 - [ComputeSDK](https://www.computesdk.com/) - Universal API across multiple cloud providers with automatic provider detection.
