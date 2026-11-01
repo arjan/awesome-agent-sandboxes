@@ -33,6 +33,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Bouvet](https://github.com/vrn21/bouvet) - Rust-based sandbox.
 - [Microsandbox](https://github.com/zerocore-ai/microsandbox) - Self-hosted with VM-level isolation and under 200ms boot times.
 - [SandboxAI](https://github.com/substratusai/sandboxai) - Multi-cloud infrastructure for AI-generated code.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted agent runtime with per-session Docker and Kubernetes sandboxes, MCP tool permissions, approvals, and audit/replay.
 - [Daytona](https://www.daytona.io/docs/en/sandboxes/) - Open-source infrastructure with SDK/CLI.
 - [Fence](https://github.com/Use-Tusk/fence) - Lightweight CLI sandbox with network and filesystem restrictions using OS-native tools.
 - [Landrun](https://github.com/Zouuup/landrun) - Landlock-based sandboxing without root.
