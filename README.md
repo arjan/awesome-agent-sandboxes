@@ -18,6 +18,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Novita Sandbox](https://novita.ai/docs/guides/sandbox-agent-runtime-introduction) - Agent deployment framework with SDK decorators and one-click configuration.
 - [BlueRock Agent Sandbox](https://www.bluerock.io/products/agent-sandbox) - Commercial sandbox with full MCP visibility and action-level tracing.
 - [Tenki Sandbox](https://tenki.cloud/products/sandbox) - Hardware-isolated Linux VMs with warm-start sessions, snapshot/fork, and multi-language SDKs.
+- [BoxCompute](https://boxcompute.ai) - Full Linux VMs on KubeVirt, hosted in Malaysia, with root access, an HTTP API, CLI and TypeScript/Python SDKs.
 
 - [Lizard Sandboxes](https://lizard.build/sandboxes) - Managed sandboxes with a Firecracker microVM runtime, snapshots, live forks, and TypeScript/Python SDKs.
 
