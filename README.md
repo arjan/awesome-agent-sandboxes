@@ -19,6 +19,8 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [BlueRock Agent Sandbox](https://www.bluerock.io/products/agent-sandbox) - Commercial sandbox with full MCP visibility and action-level tracing.
 - [Tenki Sandbox](https://tenki.cloud/products/sandbox) - Hardware-isolated Linux VMs with warm-start sessions, snapshot/fork, and multi-language SDKs.
 
+- [Lizard Sandboxes](https://lizard.build/sandboxes) - Managed sandboxes with a Firecracker microVM runtime, snapshots, live forks, and TypeScript/Python SDKs.
+
 ## Self-hosted / Open Source
 
 - [AIO Sandbox](https://github.com/agent-infra/sandbox) - All-in-one container with browser, terminal, VS Code, Jupyter, and MCP.
