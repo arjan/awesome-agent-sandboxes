@@ -53,6 +53,8 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [ComputeSDK](https://www.computesdk.com/) - Universal API across multiple cloud providers with automatic provider detection.
 - [VibeKit](https://docs.vibekit.sh/) - SDK supporting E2B, Daytona, Modal, and other providers.
 
+- [ViteHub](https://vitehub.dev/docs/agents/sandboxes) - TypeScript sandbox runtime with Cloudflare and Vercel adapters.
+
 ## Contributing
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
