@@ -38,7 +38,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Flintlock](https://github.com/liquidmetal-dev/flintlock) - MicroVM lifecycle management backed by containerd for building higher-level solutions.
 - [Capsule](https://github.com/bots-garden/capsule) - WASM runners.
 - [Enclave](https://github.com/agentfront/enclave) - JavaScript sandbox preventing code injection and prototype pollution.
-- [Sandbox Agent](https://github.com/rivet-dev/sandbox-agent) - Universal API for Claude Code, Codex, OpenCode, and Amp.
+- [Rivet Agents](https://github.com/rivet-dev/agents) - Universal API for Claude Code, Codex, OpenCode, and Amp.
 - [pctx](https://github.com/portofcontext/pctx) - Execution layer with type-checked Deno sandboxes.
 - [pctx-sandbox](https://github.com/portofcontext/pctx-py-sandbox) - Python decorator for untrusted code.
 - [AgentFence](https://github.com/agentfence/agentfence) - Security testing platform for prompt injection and secret leakage vulnerabilities.
