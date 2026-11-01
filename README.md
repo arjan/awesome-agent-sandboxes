@@ -44,6 +44,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [AgentFence](https://github.com/agentfence/agentfence) - Security testing platform for prompt injection and secret leakage vulnerabilities.
 - [OpenServ](https://github.com/openserv-labs/sdk) - TypeScript framework for autonomous agents.
 - [AgentBox](https://github.com/madarco/agentbox) - Run coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs — local Docker (default), self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean). Sub-1s checkpoints, per-box browser/VS Code/shells, git credentials kept on the host.
+- [AEGIS](https://github.com/100monkeys-ai/aegis-orchestrator) - Self-hosted orchestrator that runs autonomous agents in isolated, policy-enforced runtimes (Firecracker, Podman or Docker) with deny-by-default policy. AGPL-3.0, pre-alpha.
 
 ## Others
 
