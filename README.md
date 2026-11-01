@@ -36,6 +36,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Daytona](https://www.daytona.io/docs/en/sandboxes/) - Open-source infrastructure with SDK/CLI.
 - [Fence](https://github.com/Use-Tusk/fence) - Lightweight CLI sandbox with network and filesystem restrictions using OS-native tools.
 - [Landrun](https://github.com/Zouuup/landrun) - Landlock-based sandboxing without root.
+- [cplt](https://github.com/navikt/cplt) - Seatbelt and Landlock sandbox for coding agents, with policy committed to the repository.
 - [nono](https://huggingface.co/blog/lukehinds/nono-agent-sandbox) - Capability-based shell using kernel-level security primitives.
 - [yolo-cage](https://github.com/borenstein/yolo-cage) - Anti-exfiltration sandbox.
 - [Yolobox](https://github.com/finbarr/yolobox) - Docker containers protecting home directory.
