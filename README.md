@@ -36,7 +36,6 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [yolo-cage](https://github.com/borenstein/yolo-cage) - Anti-exfiltration sandbox.
 - [Yolobox](https://github.com/finbarr/yolobox) - Docker containers protecting home directory.
 - [Flintlock](https://github.com/liquidmetal-dev/flintlock) - MicroVM lifecycle management backed by containerd for building higher-level solutions.
-- [Volant](https://github.com/volantvm/volant) - MicroVM orchestration with ~200ms cold start.
 - [Capsule](https://github.com/bots-garden/capsule) - WASM runners.
 - [Enclave](https://github.com/agentfront/enclave) - JavaScript sandbox preventing code injection and prototype pollution.
 - [Sandbox Agent](https://github.com/rivet-dev/sandbox-agent) - Universal API for Claude Code, Codex, OpenCode, and Amp.
