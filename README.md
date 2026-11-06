@@ -23,6 +23,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Lizard Sandboxes](https://lizard.build/sandboxes) - Managed sandboxes with a Firecracker microVM runtime, snapshots, live forks, and TypeScript/Python SDKs.
 - [Runtime](https://withruntime.com) - Firecracker microVMs with pause and wake that keep memory and processes, snapshots and forks, and an MCP server. [SDK](https://github.com/withruntime/runtime).
 - [OmniRun](https://omnirun.io) - Firecracker microVM sandboxes with 250ms boot, desktop GUI control, end-to-end encryption, and TypeScript/Python SDKs.
+- [briq](https://briq.cloud) - Firecracker microVM sandboxes and the services next to them (Postgres, Redis, any OCI image), with a remote MCP server, REST API, CLI, and TypeScript/Python SDKs.
 
 ## Self-hosted / Open Source
 
