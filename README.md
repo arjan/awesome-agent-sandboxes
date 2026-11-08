@@ -29,6 +29,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [AIO Sandbox](https://github.com/agent-infra/sandbox) - All-in-one container with browser, terminal, VS Code, Jupyter, and MCP.
 - [Sandboxer](https://github.com/ammmir/sandboxer) - Forkable server for LLMs and agents.
 - [Kubernetes Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - Kubernetes APIs with pluggable isolation backends (gVisor/Kata) for secure agent workloads at scale.
+- [tiny](https://github.com/tiny-systems/tiny) - Runs the real Claude Code and Codex CLIs as pods on your own Kubernetes, with no git or cloud credentials in the pod, a hostname egress allow-list, and human-gated actions.
 - [Arrakis](https://github.com/abshkbh/arrakis) - MicroVM isolation with snapshots and backtracking.
 - [BunkerVM](https://github.com/ashishgituser/bunkervm) - Firecracker microVMs that record each command, rewind to any step, and compare agent runs.
 - [Bouvet](https://github.com/vrn21/bouvet) - Rust-based sandbox.
