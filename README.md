@@ -23,6 +23,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Lizard Sandboxes](https://lizard.build/sandboxes) - Managed sandboxes with a Firecracker microVM runtime, snapshots, live forks, and TypeScript/Python SDKs.
 - [Runtime](https://withruntime.com) - Firecracker microVMs with pause and wake that keep memory and processes, snapshots and forks, and an MCP server. [SDK](https://github.com/withruntime/runtime).
 - [OmniRun](https://omnirun.io) - Firecracker microVM sandboxes with 250ms boot, desktop GUI control, end-to-end encryption, and TypeScript/Python SDKs.
+- [CloudGPU](https://cloudgpu.app/docs/mcp) - GPU machines for agents: an MCP server and CLI that quote, start a GPU, run a command, save the results and destroy the machine, with per-agent keys whose spending limit and expiry are enforced server-side. [MCP server](https://github.com/cloudgpu-app/cloudgpu-mcp).
 
 ## Self-hosted / Open Source
 
