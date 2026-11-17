@@ -23,6 +23,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Lizard Sandboxes](https://lizard.build/sandboxes) - Managed sandboxes with a Firecracker microVM runtime, snapshots, live forks, and TypeScript/Python SDKs.
 - [Runtime](https://withruntime.com) - Firecracker microVMs with pause and wake that keep memory and processes, snapshots and forks, and an MCP server. [SDK](https://github.com/withruntime/runtime).
 - [OmniRun](https://omnirun.io) - Firecracker microVM sandboxes with 250ms boot, desktop GUI control, end-to-end encryption, and TypeScript/Python SDKs.
+- [ParallelSandbox](https://parallelsandbox.com/en/) - Remote Linux machines with Docker and a Chromium screen for coding agents, used through an [MCP server](https://github.com/parallel-sandbox/parallelsandbox-mcp); the agent hands a running version to a person for feedback.
 
 ## Self-hosted / Open Source
 
