@@ -64,6 +64,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [AI Agent Sandbox](https://agentsandbox.net/) - Run agents in-browser with Pyodide.
 - [Browser Use Sandboxes](https://docs.browser-use.com/customize/sandbox/quickstart) - Production browser automation.
 - [ComputeSDK](https://www.computesdk.com/) - Universal API across multiple cloud providers with automatic provider detection.
+- [Sandcovery](https://www.sandcovery.com/) - One API for every sandbox provider, routed by :cheapest, :fastest, or :most-reliable.
 - [VibeKit](https://docs.vibekit.sh/) - SDK supporting E2B, Daytona, Modal, and other providers.
 - [ViteHub](https://vitehub.dev/docs/agents/sandboxes) - TypeScript sandbox runtime with Cloudflare and Vercel adapters.
 
