@@ -24,6 +24,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Runtime](https://withruntime.com) - Firecracker microVMs with pause and wake that keep memory and processes, snapshots and forks, and an MCP server. [SDK](https://github.com/withruntime/runtime).
 - [OmniRun](https://omnirun.io) - Firecracker microVM sandboxes with 250ms boot, desktop GUI control, end-to-end encryption, and TypeScript/Python SDKs.
 - [kosa8](https://kosa8.com) - MicroVM sandboxes with their own kernel, a host-enforced egress allowlist, API keys injected by a host-side broker, and a tamper-evident audit log; on kosa8 Cloud, your own hosts, or a local Mac, Linux or Windows machine.
+- [LumiCloud](https://lumicloud.ai/) - Firecracker microVM sandboxes in Singapore that serve the E2B API; E2B's SDKs work by setting `E2B_DOMAIN`.
 
 ## Self-hosted / Open Source
 
