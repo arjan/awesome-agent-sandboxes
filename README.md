@@ -24,6 +24,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [Runtime](https://withruntime.com) - Firecracker microVMs with pause and wake that keep memory and processes, snapshots and forks, and an MCP server. [SDK](https://github.com/withruntime/runtime).
 - [OmniRun](https://omnirun.io) - Firecracker microVM sandboxes with 250ms boot, desktop GUI control, end-to-end encryption, and TypeScript/Python SDKs.
 - [kosa8](https://kosa8.com) - MicroVM sandboxes with their own kernel, a host-enforced egress allowlist, API keys injected by a host-side broker, and a tamper-evident audit log; on kosa8 Cloud, your own hosts, or a local Mac, Linux or Windows machine.
+- [Uremot](https://uremot.com) - Desktop sandboxes for AI agents: containers with a screen, keyboard and mouse, watched live in the browser. Runs on Uremot Cloud (invitation only for now) or on machines you enroll, driven through a hosted MCP server.
 
 ## Self-hosted / Open Source
 
