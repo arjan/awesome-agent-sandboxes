@@ -56,6 +56,7 @@ A curated list of **code-execution sandboxing solutions for AI/LLM agents**.
 - [SIwithin](https://github.com/metahumansworld/SIwithin) - Runs Claude Code unattended inside a per-run macOS sandbox-exec profile (home folder refused whole), under a true-dollar budget enforced three times, with a sha256 receipt per run.
 - [Mudroom](https://github.com/Kernel-Hunter/mudroom) - macOS app and CLI that runs coding agents in Linux micro-VMs (Apple container) on a copy-on-write clone of the project, behind a network allowlist proxy, with per-hunk diff review before changes are applied.
 - [bashkit4j](https://github.com/tersePrompts/bashkit4j) - In-JVM sandboxed bash: 160+ reimplemented commands on an in-memory VFS, opt-in allowlisted host mounts, zero OS processes — no containers, no VMs (Java 17+).
+- [Casama](https://github.com/casama-ai/casama) - Self-hostable AI teammates with Docker computers (optional gVisor) whose route to the internet is an egress proxy that blocks private ranges. Computer image and proxy are open source; the server engine is closed.
 
 ## Others
 
